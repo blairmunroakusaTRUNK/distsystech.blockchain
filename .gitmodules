@@ -1,0 +1,3 @@
+[submodule "blockchain.solana"]
+	path = blockchain.solana
+	url = https://github.com/blairmunroakusaBRANCH/blockchain.solana

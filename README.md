@@ -6,7 +6,7 @@
 
 ```
  Welcome to my general blockchain space
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 . This is where I accumulate projects related to blockchain tech
 . As something matures, I may migrate it somewhere more structured.
